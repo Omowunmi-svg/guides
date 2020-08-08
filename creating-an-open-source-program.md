@@ -95,7 +95,7 @@ The budget, staffing, and technology tools and systems needed by a new program o
 
 If a program office is too large, there’s a danger it can become too centralized. You want to keep developers and open source communities within the company in the process as much as possible. Outsized offices allow others to defer issues to the program office rather than resolving them on their own.
 
-An example of a well-defined open source program office is one that drives needed policy, processes and tools, while also operating with a mantra of eliminating friction where it is found, using tools to automate what can be streamlined, and delegating tasks which need to be accomplished. We’ll cover more specifics on how to set policies and processes in the sections below.
+An example of a well-defined open source program office is one that drives needed policy, processes and tools, while also operating with a mantra of eliminating friction where it's found, using tools to automate what can be streamlined, and delegating tasks which need to be accomplished. We’ll cover more specifics on how to set policies and processes in the sections below.
 
 A program office must offer structured policies and processes but also remain flexible. When open source users and contributors need help, the office operates more like a consultancy, providing guidance while still allowing employees to make individual or group business decisions relating to their work. Ultimately, the goal is to establish the right balance of duties and responsibilities to meet the needs of your company and its open source users.
 
@@ -129,7 +129,7 @@ At Microsoft, the structure of its open source program office, which is inside i
 
 Under its process, Microsoft engineers can go into the company’s open source workflows, share that they want to use a piece of code or release something to an open source community, and then receive responses from local reviewers who provide feedback. About 300 different groups of business and legal reviewers are available to weigh in on the localized requests with their expertise, helping to provide a workable approach for the company through a highly specialized process.
 
-> “If we tried to have a centralized body to approve open source for Windows, Office, and Azure, we would be pulling our hair out. Those are fundamentally different businesses. We give **engineers** the tools and guidance to enable their work, but are not a **central approval body**. That works in some companies but would not work here.” – [Jeff McAffer](https://twitter.com/jeffmcaffer), director of the [Open Source Programs Office at Microsoft](https://opensource.microsoft.com/resources/office)
+> “If we try to have a centralized body to approve open source for Windows, Office, and Azure, we would be pulling our hair out. Those are fundamentally different businesses. We give **engineers** the tools and guidance to enable their work, but are not a **central approval body**. That works in some companies but would not work here.” – [Jeff McAffer](https://twitter.com/jeffmcaffer), director of the [Open Source Programs Office at Microsoft](https://opensource.microsoft.com/resources/office)
 
 ## Management roles
 
@@ -161,7 +161,7 @@ In addition, the creation of other job roles is important for the success of the
 
 ## Setting policy and processes
 
-With many of the other important components now planned or assembled for your company’s open source program office, from its creation to its structure to personnel, the next step is to develop well-defined policies and processes which will enable consistent implementation of your company’s open source strategy.
+With many of the other important components now planned or assembled for your company’s open source program office, from its creation to its structure to personnel. The next step is to develop well-defined policies and processes which will enable consistent implementation of your company’s open source strategy.
 
 The policies should lay out the requirements and rules for working with open source across the company, as well as documented and executable processes which will ensure the rules are followed on a day-to-day basis.
 
@@ -202,7 +202,7 @@ That is, of course, one of the benefits of putting your company’s open source 
 
 ### Policies to promote adoption
 
-You also want to encourage others to use your code in their products and services. This is key to building ecosystems that in turn help grow and sustain your open source projects. Policies for open source use can come in a variety of innovative forms.
+You also want to encourage others to use your code in their products and services. This is essential to building ecosystems that in turn help grow and sustain your open source projects. Policies for open source use can come in a variety of innovative forms.
 
 Red Hat has a unique policy by defaulting to open source with its newly-created code in most cases from the start. That means that when developing each piece of software inside the company, it is assumed that in the future it may be destined to be released as open source. This is intriguing because typically there is a different attitude among engineers for releasing their code as open source because other people will then be looking at it. Due to that scrutiny, they tend to structure things in better ways when writing open source, creating cleaner code with fewer or improved code dependencies in their work.
 
